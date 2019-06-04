@@ -1,5 +1,13 @@
 title: nab5m의 발전소
 description: django 취준생
-show_downloads: true
-google_analytics:
+lang: ko
+#show_downloads: true
+#google_analytics:
 theme: jekyll-theme-cayman
+
+github:
+  is_project_page: true
+  repository_name: nab5m.github.io
+  repository_url: https://github.com/nab5m/
+  owner_name: JunYoung, Kim
+  owner_url: https://github.com/nab5m/

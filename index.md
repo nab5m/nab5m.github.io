@@ -1,6 +1,9 @@
 ---
-layout: default
+layout: list
+model_url: /
 ---
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

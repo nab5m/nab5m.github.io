@@ -38,7 +38,21 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      {{ content }}
+      <ul>
+      {% for item in site.pages %}
+          {% if item.url contains page.model_url 
+              and item.url != page.model_url %}
+              {% unless item.url contains "/assets/"
+                  or item.url contains "/docs/"
+                  or item.title contains "목록" %}
+              <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+              {% endunless %}
+          {% endif %}
+      {% endfor %}
+      </ul>
+      {% comment %} 
+        {{ content }}
+      {% endcomment %}
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
