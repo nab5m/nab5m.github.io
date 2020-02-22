@@ -30,10 +30,13 @@
 
       <a href="/" class="btn">Home</a>
 
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" target="_blank" class="btn">GitHub 보기</a>
-      {% endif %}
+      {% comment %}
+        {% if site.github.is_project_page %}
+          <a href="{{ site.github.repository_url }}" target="_blank" class="btn">GitHub 보기</a>
+        {% endif %}
+      {% endcomment %}
 
+      <a href="/posts/resume/index.html" class="btn">Resume</a>
       <a href="/posts/Today-I-Learned/index.html" class="btn">Today I Learned</a>
       <a href="/posts/diary/index.html" class="btn">Diary</a>
       <a href="/posts/projects/index.html" class="btn">Projects</a>

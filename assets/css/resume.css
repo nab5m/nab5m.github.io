@@ -1,0 +1,54 @@
+.profile_image {
+	width: 150px;
+	height: 150px;
+
+	border-radius: 25px;
+
+	display: block;
+	margin-bottom: 20px;
+}
+
+.profile_contents {
+	line-height: 30px;
+}
+
+#profile {
+	width: 100%;
+}
+
+#profile::after {
+	content: "";
+	clear: both;
+}
+
+@media screen and (max-width: 430px) {
+	#profile {
+		height: 300px;
+	}
+
+	.profile_image, .profile_contents {
+		float: none;
+		margin-left: 0;
+	}
+
+	.profile_image {
+		display: block;
+		margin-bottom: 20px;
+	}
+}
+
+.project_image {
+	width: 250px;
+	margin: 15px 10px;
+}
+
+@media screen and (max-width: 800px) {
+	.lslide {
+		display: flex;
+		justify-content: center;
+	}
+}
+
+.lSAction > a {
+	background-color: red !important;
+}
