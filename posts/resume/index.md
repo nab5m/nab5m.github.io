@@ -10,19 +10,24 @@ description: nab5m의 발전소
 
 # <연혁>
 
-## 2013 (중2)
-- 정보보안 전문가의 꿈을 갖게됨
-- 광화문 교보문고에서 윤성우의 열혈 C프로그래밍 책구매
+## 2020 (스물 두 살)
+- 개인 프로젝트: 노래일기
+- 구직 활동
 
-## 2014 (중3)
-- 선린 인터넷고에 다니기 위해 부모님 수 차례 설득
+## 2019 (스물 한 살)
+- 독학사 컴퓨터과학과 1, 2단계 통과
+- React와 Django 공부
+- w-stone 소개 홈페이지 제작 (상호 협의 실패로 도메인 등록X)
+- 개인 프로젝트: 북마크
+- 개인 프로젝트: 노래일기
+- GTQ 포토샵 1급
 
-## 2015 (고1)
-- 해킹 동아리 Layer 7 가입
-- 교내 프로그래밍 경진대회 동상
-- 전공 서적 : 윤성우의 열혈 C++ 프로그래밍
-- 전공 서적 : 리버싱 핵심원리
-- 보안 멘토링 프로그램 (DLL Injection 프로젝트)
+## 2018 (스무 살)
+- 건국대학교 경영학과 휴학
+- 토익 920점
+
+## 2017 (고3)
+- 수능 공부 매진
 
 ## 2016 (고2)
 - 전공 서적 : 난 정말 Java를 공부한 적이 없어요
@@ -33,24 +38,19 @@ description: nab5m의 발전소
 - 웹 기능반 소속 (jQuery, bootstrap, Php-Laravel)
 - 교내 디지털콘텐츠 경진대회 동상
 
-## 2017 (고3)
-- 수능 공부 매진
+## 2015 (고1)
+- 해킹 동아리 Layer 7 가입
+- 교내 프로그래밍 경진대회 동상
+- 전공 서적 : 윤성우의 열혈 C++ 프로그래밍
+- 전공 서적 : 리버싱 핵심원리
+- 보안 멘토링 프로그램 (DLL Injection 프로젝트)
 
-## 2018 (스무 살)
-- 건국대학교 경영학과 휴학
+## 2014 (중3)
+- 선린 인터넷고에 다니기 위해 부모님 수 차례 설득
 
-## 2019 (스물 한 살)
-- 독학사 컴퓨터과학과 1, 2단계 통과
-- React와 Django 공부
-- w-stone 소개 홈페이지 제작 (상호 협의 실패로 도메인 등록X)
-- 개인 프로젝트: 북마크
-- 개인 프로젝트: 노래일기
-- GTQ 포토샵 1급
-
-## 2020 (스물 두 살)
-- 개인 프로젝트: 노래일기
-- 구직 활동
-
+## 2013 (중2)
+- 정보보안 전문가의 꿈을 갖게됨
+- 광화문 교보문고에서 윤성우의 열혈 C프로그래밍 책구매
 <br/>
 <hr/>
 
@@ -64,7 +64,7 @@ description: nab5m의 발전소
 &nbsp;&nbsp;[music-diary.surge.sh](http://music-diary.surge.sh){:target="_blank"} <br/>
 
 **Repository:**<br/>
-&nbsp;&nbsp;[#front-end](https://github.com/nab5m/music-diary-frontend){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;[#back-end](){:target="_blank"} <br/>
+&nbsp;&nbsp;[#front-end](https://github.com/nab5m/music-diary-frontend){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;[#back-end](https://github.com/nab5m/music-diary-backend){:target="_blank"} <br/>
 
 
 **Description:** <br/> 
