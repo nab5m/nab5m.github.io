@@ -1,0 +1,15 @@
+I"�<h2 id="react">React</h2>
+<ul>
+  <li><a href="https://byseop.netlify.com/mobx-async/" target="_blank">mobX 비동기 액션</a></li>
+  <li>컴포넌트 리렌더링 방지를 위해 hook을 만들 때 기능이나 성능에 문제가 없는지 잘 확인해야겠다</li>
+  <li>React.memo 함수를 실습해볼 필요성을 느꼈다</li>
+  <li>async와 await을 사용할 수 있다</li>
+  <li>Promise.then(), setTimeOut()의 함수 안에서 observable 변수를 수정한다면 action.bound나 action으로 설정할 수 있다</li>
+</ul>
+
+<h2 id="django">Django</h2>
+<ul>
+  <li>Serializer 내부 필드 속성의 required를 False로 바꿀 수 있다</li>
+  <li>write_only/read_only 필드를 지정할 수 있다</li>
+</ul>
+:ET
