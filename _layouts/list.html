@@ -18,6 +18,8 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta property="og:image" content="https://img.icons8.com/windows/96/000000/kawaii-bread-1.png" />
+
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/list_layout.css' }}">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="shortcut icon" type="image/png" href="https://img.icons8.com/windows/96/000000/kawaii-ice-cream.png" />
@@ -40,7 +42,6 @@
       <a href="/posts/resume/index.html" class="btn">Resume</a>
       <a href="/posts/Today-I-Learned/index.html" class="btn">Today I Learned</a>
       <a href="/posts/diary/index.html" class="btn">Diary</a>
-      <a href="/posts/projects/index.html" class="btn">Projects</a>
     </header>
 
     <main id="content" class="main-content" role="main">
@@ -52,8 +53,11 @@
                   or item.url contains "/docs/"
                   or item.title contains "목록"
                   or item.hide == true %}
-              <li>
-                <a href="{{ item.url }}">{{ item.title }}</a>&nbsp;&nbsp;&nbsp;
+              <li class="list-item">
+                <a href="{{ item.url }}">{{ item.title }}</a><br/>
+                <span class="item-detail">{{ item.created }}&nbsp;&nbsp;&nbsp;
+                #{{ item.category }}</span>
+
                 <i class="far fa-comment"></i>
                 <a href="{{ item.url }}#disqus_thread"></a>
               </li>

@@ -2,6 +2,8 @@
 layout: resume
 title: 이력서
 description: nab5m의 발전소
+created: 2020-02-22
+category: Resume
 ---
 
 ### 2020년 나를 데려갈 회사는 어디일까?
