@@ -1,8 +1,8 @@
 # nab5m의 github 블로그
-[Home](https://nab5m.github.io/)
-[RESUME](https://nab5m.github.io/posts/resume/index.html)
-[Diary](https://nab5m.github.io/posts/diary/index.html)
-[Today I learned](https://nab5m.github.io/posts/Today-I-Learned/index.html)
+[Home](https://nab5m.github.io/)<br/>
+[RESUME](https://nab5m.github.io/posts/resume/index.html)<br/>
+[Diary](https://nab5m.github.io/posts/diary/index.html)<br/>
+[Today I learned](https://nab5m.github.io/posts/Today-I-Learned/index.html)<br/><br/>
 
 # The Cayman theme
 
